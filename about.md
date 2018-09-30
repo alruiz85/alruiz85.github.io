@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## <span style="color: rgb(21,87,153)">About me</span>
 Software developer with more than 3 years experience specializing in Android development.
 
 I do love programming, good practices, clean code and learning new things every day. 
