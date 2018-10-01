@@ -8,7 +8,7 @@ Software developer with more than 3 years experience specializing in Android dev
 
 I do love programming, good practices, clean code and learning new things every day. 
 
-## <span style="color: rgb(21,87,153)">Personal projects</span>
+## Personal projects
 
 ##### Guía Ocerin [GooglePlay link](https://play.google.com/store/apps/details?id=com.guiaocerin)
 Ocerin is an Android application, developed for the strategic football manager game [Hattrick.org](https://www.hattrick.org/)
@@ -17,7 +17,7 @@ It is connected directly to Hattrick's database through Oauth protocol, enabling
 
 App developed in Kotlin.
 
-## <span style="color: rgb(21,87,153)">Professional projects</span>
+## Professional projects
 
 ##### WeGo|BCN (Vector ITC Group) [GooglePlay link](https://play.google.com/store/apps/details?id=com.wego.bcn)
 
@@ -30,7 +30,7 @@ MEDUX measures and enhances Digital Customer Experience using 24x7 progressive d
 
 ##### Meliá – Hotel Bookings (MO2O) [Web](https://play.google.com/store/apps/details?id=es.mobail.meliarewards&hl=es) 
 
-## <span style="color: rgb(21,87,153)">Experience</span>
+## Experience
 ##### March 2017 - March 2018: Mobile One 2 One (MO2O)
 
 
@@ -43,10 +43,10 @@ Unit testing with PowerMock.
 
 ##### March 2016 - March 2017: Vector ITC Group
 
-## <span style="color: rgb(21,87,153)">Github projects</span>
+## Github projects
 
-##### MVP, Dagger2, Clean arquicheture [link](https://github.com/alruiz85/Recipes)
-Clean arquicheture using Recipe Puppy API written in JAVA.
+##### MVP, Dagger2, Clean architecture [link](https://github.com/alruiz85/Recipes)
+Clean architecture using Recipe Puppy API written in JAVA.
 ##### Kotlin [link](https://github.com/alruiz85/Kotlin)
 Antonio Leiva's Kotlin book examples.
 ##### Speedometer [link](https://github.com/alruiz85/Speedometer)
