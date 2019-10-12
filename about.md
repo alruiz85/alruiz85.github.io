@@ -16,6 +16,11 @@ It is connected directly to Hattrick's database through Oauth protocol, enabling
 
 App developed in Kotlin.
 
+##### Sync tile - Quick settings [GooglePlay link](https://play.google.com/store/apps/details?id=com.guiaocerin.synctile)
+This tile allows you to easily turn on and off auto-sync data, helping you to save data and battery in Android 7+ devices.
+
+App developed in Kotlin.
+
 # Professional projects
 
 ##### WeGo|BCN (Vector ITC Group) [Facebook link](https://www.facebook.com/wegobcn/)
