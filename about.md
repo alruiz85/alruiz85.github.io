@@ -8,7 +8,6 @@ Software developer with more than 4 years experience specializing in Android dev
 I do love programming, good practices, clean code and learning new things every day. 
 
 # Personal projects 
-{: .gitlab-green}
 
 ##### Guía Ocerin [GooglePlay link](https://play.google.com/store/apps/details?id=com.guiaocerin)
 Ocerin is an Android application, developed for the strategic football manager game [Hattrick.org](https://www.hattrick.org/)
