@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-Software developer with more than 4 years experience specializing in Android development (JAVA and Kotlin).
+Software developer with more than 5 years experience specializing in Android development (JAVA and Kotlin).
 
 I do love programming, good practices, clean code and learning new things every day. 
 
