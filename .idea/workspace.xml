@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff778d78-4654-43ee-98c1-52e88338bfe1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-5-16-synctile.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-5-16-synctile.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +73,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="sync tile" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="562" y="107" key="CommitChangelistDialog2" timestamp="1621195566522">
+    <state x="562" y="107" key="CommitChangelistDialog2" timestamp="1621195913388">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="562" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1621195566522" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621195676336">
+    <state x="562" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1621195913388" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621195915039">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621195676336" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1621195915039" />
   </component>
 </project>

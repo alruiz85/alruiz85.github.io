@@ -39,7 +39,7 @@ MEDUX measures and enhances Digital Customer Experience using 24x7 progressive d
 Book hotels, services, chat, digital key and everything you need to offer the best user experience.
 
 # Experience
-##### March 2017 - March 2018: Mobile One 2 One (MO2O)
+##### March 2018 - Present: Mobile One2one (MO2O)
 
 Android applications development.
 Continuous integration and code quality with Jenkins, SonarQube.
